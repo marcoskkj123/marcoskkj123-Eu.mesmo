@@ -1,10 +1,6 @@
 # marcoskkj123-Eu.mesmo
 ### Um repositório muito louco que eu criei na aula de backend!!!
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcoskkj123/marcoskkj123/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcoskkj123/marcoskkj123/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcoskkj123/marcoskkj123/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<img width="395" height="506" alt="image" src="https://github.com/user-attachments/assets/e8a0251b-dd06-4119-84bd-18d71540fd9d" />
 
 ###
 
